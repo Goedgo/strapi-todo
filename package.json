@@ -1,7 +1,7 @@
 {
   "name": "@strapi/plugin-todo",
   "version": "1.0.0",
-  "description": "Make your Strapi content todo friendly.",
+  "description": "example on how to build and deploy on npm.",
   "strapi": {
     "name": "todo",
     "displayName": "TODO",

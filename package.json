@@ -1,5 +1,5 @@
 {
-  "name": "@strapi/plugin-goedgo-todo",
+  "name": "@goedgo/plugin-todo",
   "version": "1.0.0",
   "description": "example on how to build and deploy on npm.",
   "strapi": {
